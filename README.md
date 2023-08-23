@@ -107,7 +107,7 @@ Assignment provided by the kraftpixel
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Untitled Ui]()
+- [Untitled Ui](https://santosh-konappanavar.github.io/kraftpixel/)
 
 - Click here to see [Recorded video]()
 
@@ -137,7 +137,7 @@ Clone this repository to your desired folder:
 
 
   <li> cd my-folder
-  <li> git clone 
+  <li> git clone https://github.com/Santosh-Konappanavar/kraftpixel
 
 
 ### Install
@@ -162,19 +162,19 @@ This website has been completed and deployed
 
 ### Deployment
 
-- [PortFolio]()
+- [PortFolio](https://santosh-konappanavar.github.io/kraftpixel/)
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
 ## 👥 Author <a name="authors"></a>
 
 
 
-👤 **Author**
+👤 **Santosh Konappanavar**
 
 - GitHub: [@Santosh-Konappanavar](https://github.com/Santosh-Konappanavar/Portfolio-mobile-setup)
 - LinkedIn: [@Santosh Konappanavar](https://www.linkedin.com/in/santosh-konappanavar/)
@@ -208,7 +208,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> I recently started my micronaut career. I would be glad to have any resource that would easy my journey in the program
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
