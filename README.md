@@ -109,7 +109,7 @@ Assignment provided by the kraftpixel
 
 - [Untitled Ui](https://santosh-konappanavar.github.io/kraftpixel/)
 
-- Click here to see [Recorded video]()
+- Click here to see [Recorded video](https://drive.google.com/file/d/1rs91oK_G3KX9l2oU0rXUBjpCpqmHN3LP/view?usp=sharing)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
